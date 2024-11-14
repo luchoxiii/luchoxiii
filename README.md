@@ -1,7 +1,7 @@
 
 ##  Hola a todos | Hi Everyone | Bonjour a tous.
 <br>
-Hello everyone, I'm Luciano, but you can call me Lucho. 
+Hola a todos, me llamo Luciano, pero pueden decirme Lucho. 
 <br>
 Hello everyone, I'm Luciano, but you can call me Lucho. 
 <br>
