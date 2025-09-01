@@ -24,8 +24,9 @@ Bem-vindos ao meu perfil no GitHub!
 - 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)  
 - 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)  
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)  
-- 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)
-
+- 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)  
+- 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)  
+- 💻 [JavaScript](https://github.com/luchoxiii/Javascript)
 
 
 
@@ -47,7 +48,7 @@ Bem-vindos ao meu perfil no GitHub!
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-E42B2B?style=for-the-badge&logo=databricks&logoColor=white)  
 
 #### 📊 Business Intelligence y Visualización  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 #### 🐳 Contenedores y Orquestación  
