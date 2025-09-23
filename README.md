@@ -20,7 +20,8 @@ Bem-vindos ao meu perfil no GitHub!
 
 ## 📁 Repositorios importantes
 
-- 🔬 [Ciencia de Datos](https://github.com/luchoxiii/Data-Scientist)  
+- 🔬 [Ciencia de Datos](https://github.com/luchoxiii/Data-Scientist)
+  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)  
 - 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)  
 - 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)  
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
