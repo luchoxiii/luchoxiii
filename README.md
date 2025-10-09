@@ -27,7 +27,8 @@ Bem-vindos ao meu perfil no GitHub!
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Deep-Learning/tree/main/Books)
 - 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)  
-- 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)  
+- 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)
+  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
 - 💻 [JavaScript](https://github.com/luchoxiii/Javascript)
 
 
