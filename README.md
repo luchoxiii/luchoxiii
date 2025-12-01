@@ -22,8 +22,10 @@ Bem-vindos ao meu perfil no GitHub!
 
 - 🔬 [Ciencia de Datos](https://github.com/luchoxiii/Data-Scientist)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)  
-- 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)  
-- 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)  
+- 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)
+  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
+- 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)
+  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Engineering/tree/main/Notes)
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Deep-Learning/tree/main/Books)
 - 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)  
