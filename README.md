@@ -32,6 +32,7 @@ Bem-vindos ao meu perfil no GitHub!
 - 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
 - 💻 [JavaScript](https://github.com/luchoxiii/Javascript)
+- 🌍 [Geoespacial](https://github.com/luchoxiii/Geo-analysis)
 
 
 
