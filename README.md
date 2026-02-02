@@ -28,6 +28,7 @@ Bem-vindos ao meu perfil no GitHub!
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Engineering/tree/main/Notes)
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Deep-Learning/tree/main/Books)
+    - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBi) 
 - 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)  
 - 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)
   - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
