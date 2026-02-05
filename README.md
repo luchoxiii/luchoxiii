@@ -19,22 +19,25 @@ Bem-vindos ao meu perfil no GitHub!
 ---
 
 ## 📁 Repositorios importantes
-
 - 🔬 [Ciencia de Datos](https://github.com/luchoxiii/Data-Scientist)
-  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)  
+  - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)
 - 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)
-  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
+  - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
+    - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBI)
+  - [Power BI (Proyectos)](https://github.com/luchoxiii/Data-Analyst/tree/main/PowerBI)
+  - [Tableau](https://github.com/luchoxiii/Data-Analyst/tree/main/Tableau)
 - 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)
-  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Data-Engineering/tree/main/Notes)
+  - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Engineering/tree/main/Notes)
 - 🤖 [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
-  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Deep-Learning/tree/main/Books)
-    - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBi) 
-- 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)  
+  - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Deep-Learning/tree/main/Books)
+- 📚 [Trabajos Propios, Alumnos & Datasets](https://github.com/luchoxiii/Students)
+  - [Datasets](https://github.com/luchoxiii/Students/tree/main/dataset)
 - 🛡️ [Cyberseguridad](https://github.com/luchoxiii/Cyber_Securitys)
-  - [Libros, Apuntes & Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
+  - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
 - 💻 [JavaScript](https://github.com/luchoxiii/Javascript)
 - 🌍 [Geoespacial](https://github.com/luchoxiii/Geo-analysis)
-
+- ⚙️ [Automatización & Otras Cosas](https://github.com/luchoxiii/Automatizacion-Others)
+  - [Documentación](https://github.com/luchoxiii/Automatizacion-Others/tree/main/Books)
 
 
 ---
