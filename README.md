@@ -23,7 +23,7 @@ Bem-vindos ao meu perfil no GitHub!
   - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)
 - 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)
   - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
-    - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBI)
+    - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBi)
   - [Power BI (Proyectos)](https://github.com/luchoxiii/Data-Analyst/tree/main/PowerBI)
   - [Tableau](https://github.com/luchoxiii/Data-Analyst/tree/main/Tableau)
 - 🏗️ [Ingeniería de Datos](https://github.com/luchoxiii/Data-Engineering)
