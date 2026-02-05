@@ -1,4 +1,4 @@
-### 🌍 Español | 🇬🇧 English | 🇫🇷 Français | 🇧🇷 Português
+### 🌍 Español | [🇬🇧 English](README.en.md) | [🇫🇷 Français](readme.fr.md)  | 🇧🇷 Português
 
 👋 ¡Hola a todos!  
 Me llamo **Luciano**, pero pueden decirme **Lucho**.  
