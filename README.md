@@ -21,6 +21,8 @@ Bem-vindos ao meu perfil no GitHub!
 ## 📁 Repositorios importantes
 - 🔬 [Ciencia de Datos](https://github.com/luchoxiii/Data-Scientist)
   - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Scientist/tree/main/Apuntes)
+  - [R](https://github.com/luchoxiii/Data-Scientist/tree/main/R)
+  - [Python](https://github.com/luchoxiii/Data-Scientist/tree/main/Python)
 - 📊 [Análisis de Datos](https://github.com/luchoxiii/Data-Analyst)
   - [Libros, Apuntes & Documentación](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
     - [Power BI](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes/PowerBi)
