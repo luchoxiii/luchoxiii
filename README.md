@@ -33,8 +33,7 @@ Me llamo **Luciano**, pero pueden decirme **Lucho**.
 
 ---
 
-## 🚀 Technologies & Tools
-
+## 🚀 Tecnologias  & Herramientas
 
 #### 🧠 Inteligencia Artificial y Ciencia de Datos  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![GenIA](https://img.shields.io/badge/GenIA-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=xgboost&logoColor=white)  ![LightGBM](https://img.shields.io/badge/LightGBM-00CFFF?style=for-the-badge&logo=lightgbm&logoColor=black)  
